@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">v2vega109</string>
+    <string name="action_settings">Settings</string>
+    <string name="cont_str_main">vegafon</string>
+    <string name="bgBott">bottomImg</string>
+    <string name="Breath">Breath</string>
+    <string name="RED">RED</string>
+    <string name="BLUE">BLUE</string>
+    <string name="connect">Connect BT</string>
+    <string name="disconnect">Disconnect BT</string>
+    <string name="sequence">sequence</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="pickerLength">270dp</dimen>
+    <dimen name="pickerLength2">270dp</dimen>
+    <dimen name="circleBtn">45dp</dimen>
+    <dimen name="lengthHorizontal">10dp</dimen>
+    <dimen name="lengthVertical">10dp</dimen>
+
+</resources>
